@@ -1,0 +1,18 @@
+{
+  "name": "mlpd",
+  "type": "module",
+  "version": "1.0.0",
+  "main": "test.js",
+  "scripts": {
+    "test": "tsc && node ./test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@types/js-yaml": "^4.0.9",
+    "@types/node": "^20.14.9",
+    "js-yaml": "^4.1.0",
+    "typescript": "^5.5.2"
+  }
+}

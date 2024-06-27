@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "nodenext",
+    "noImplicitAny": true,
+    "removeComments": true,
+    "preserveConstEnums": true,
+    "sourceMap": true,
+    "moduleResolution": "nodenext",
+  },
+  "files": [
+    "mlpd.ts",
+    "test.ts",
+  ]
+}
